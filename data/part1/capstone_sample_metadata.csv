@@ -1,0 +1,4 @@
+sample_id,condition,concentration_mM,batch
+S01,control,0.0,B1
+S02,low,0.5,B1
+S03,high,1.0,B2
