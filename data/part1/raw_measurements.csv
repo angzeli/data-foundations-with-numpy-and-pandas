@@ -1,0 +1,10 @@
+sample_id,condition,time_min,absorbance,operator_note
+S01,control,0,0.051,baseline
+S01,control,5,0.163,
+S01,control,10,0.281,
+S02,treated,0,0.049,baseline
+S02,treated,5,0.224,
+S02,treated,10,0.392?,instrument flag
+S03,treated,0,not recorded,missed read
+S03,treated,5,0.217,
+S03,treated,10,0.376,
