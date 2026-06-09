@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.idea/
+.venv/
+data/part1/processed/*.csv
+!data/part1/processed/.gitkeep
