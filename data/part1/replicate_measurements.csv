@@ -1,0 +1,10 @@
+sample_id,condition,replicate,time_min,response
+S01,control,1,10,0.282
+S01,control,2,10,0.276
+S01,control,3,10,0.291
+S02,low,1,10,0.361
+S02,low,2,10,0.372
+S02,low,3,10,0.355
+S03,high,1,10,0.618
+S03,high,2,10,0.642
+S03,high,3,10,0.631
